@@ -1,5 +1,6 @@
 {
   "mode": "manual",
-  "expiry_date": "2026-01-10 17:46:00",
+  "auto_duration": 1,
+  "auto_unit": "m",
   "tpl_info": "Trail"
 }
