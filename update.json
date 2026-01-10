@@ -1,7 +1,8 @@
 {
-  "version": "1.1.1",
-  "download_url": "https://github.com/giveaway-free/ClickFox/raw/refs/heads/main/Click%20Fox.exe",
+  "version": "1.0.0",
+  "url": "",
+  "file_name": "Click Fox.exe",
   "changelog": "Hello\nHi",
   "force_update": true,
-  "last_update": "2026-01-10T16:46:03.787Z"
+  "last_update": "2026-01-10T17:33:43.752Z"
 }
