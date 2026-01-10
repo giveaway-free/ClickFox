@@ -10,7 +10,7 @@
       "activated_device_uuid": "6ab44345a4f3dc4cedc9348e6fe0b292ed2103a53dc7063f82b2f44475ce11f1",
       "user_info": "Trail",
       "expiry_date": "2026-01-10 18:04:24",
-      "status": "VALID",
+      "status": "INVALID",
       "request_date": "2026-01-10 18:03:24"
     }
   ]
