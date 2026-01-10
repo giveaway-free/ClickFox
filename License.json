@@ -1,1 +1,10 @@
-
+{
+  "licenses": [
+    {
+      "activated_device_uuid": "dcdscds",
+      "user_info": "dcdcd",
+      "expiry_date": "2026-01-10 22:40:00",
+      "status": "VALID"
+    }
+  ]
+}
