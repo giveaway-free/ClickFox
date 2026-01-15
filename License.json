@@ -6,6 +6,13 @@
       "expiry_date": "2100-06-11 00:04:00",
       "status": "VALID",
       "request_date": "2026-01-11 17:56:58"
+    },
+    {
+      "activated_device_uuid": "6ab44345a4f3dc4cedc9348e6fe0b292ed2103a53dc7063f82b2f44475ce11f1",
+      "user_info": "Trail",
+      "expiry_date": "2026-01-15 17:28:26",
+      "status": "VALID",
+      "request_date": "2026-01-15 16:28:26"
     }
   ]
 }
