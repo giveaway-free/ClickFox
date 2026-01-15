@@ -1,13 +1,6 @@
 {
   "licenses": [
     {
-      "activated_device_uuid": "6ab44345a4f3dc4cedc9348e6fe0b292ed2103a53dc7063f82b2f44475ce11f1",
-      "user_info": "Trail",
-      "expiry_date": "2099-02-09 12:17:00",
-      "status": "VALID",
-      "request_date": "2026-01-10 18:17:06"
-    },
-    {
       "activated_device_uuid": "e19f9d5bd5843353291eeb914623080b1837e7b54c027ea09f33a8febb8b2c88",
       "user_info": "Umar Vai, 40$ Lifetime",
       "expiry_date": "2100-06-11 00:04:00",
