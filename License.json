@@ -9,10 +9,9 @@
     },
     {
       "activated_device_uuid": "a613b2ac5703ab9d52b945eaaeb15c0a8ea4f3c9eccc87f059bbbb7883a102bc",
-      "user_info": "Auto-Registration",
-      "expiry_date": "2026-01-20 15:43:40",
-      "status": "PENDING",
-      "request_date": "2026-01-19 15:43:40"
+      "user_info": "my",
+      "expiry_date": "2030-07-19 05:46:00",
+      "status": "VALID"
     }
   ]
 }
