@@ -1,6 +1,6 @@
 {
   "mode": "auto",
   "auto_duration": 1,
-  "auto_unit": "h",
+  "auto_unit": "d",
   "tpl_info": "Trail"
 }
