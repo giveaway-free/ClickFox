@@ -6,13 +6,6 @@
       "expiry_date": "2100-06-11 00:04:00",
       "status": "VALID",
       "request_date": "2026-01-11 17:56:58"
-    },
-    {
-      "activated_device_uuid": "a613b2ac5703ab9d52b945eaaeb15c0a8ea4f3c9eccc87f059bbbb7883a102bc",
-      "user_info": "MY",
-      "expiry_date": "2033-07-20 04:11:00",
-      "status": "VALID",
-      "request_date": "2026-01-19 16:09:08"
     }
   ]
 }
