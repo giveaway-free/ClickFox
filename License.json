@@ -35,25 +35,11 @@
       "request_date": "2026-02-02 11:03:26"
     },
     {
-      "activated_device_uuid": "5948d8ee0395dd81ceb1ab2c1e13ffb720b044d5ec88ff5fe6a055394f7870ce",
-      "user_info": "Shanta Islam",
-      "expiry_date": "2080-09-19 19:20:00",
-      "status": "EXPIRED",
-      "request_date": "2026-02-05 13:13:56"
-    },
-    {
       "activated_device_uuid": "0ae158d6599856996d2df35d353ba2a1ac2e82aab2655c4d0e6f11815a87bd05",
       "user_info": "Trail 5",
       "expiry_date": "2026-02-10 09:50:54",
       "status": "PENDING",
       "request_date": "2026-02-09 09:50:54"
-    },
-    {
-      "activated_device_uuid": "e19f9d5bd5843353291eeb914623080b1837e7b54c027ea09f33a8febb8b2c88",
-      "user_info": "Trail 5",
-      "expiry_date": "2026-02-10 10:17:22",
-      "status": "PENDING",
-      "request_date": "2026-02-09 10:17:22"
     }
   ]
 }
