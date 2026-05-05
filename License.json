@@ -56,20 +56,6 @@
       "request_date": "2026-04-13 16:20:26"
     },
     {
-      "activated_device_uuid": "b071377ade0b4777d67c5f407c1bec7cdcb0ee6b7fead06ebc9f4482ecab8b71",
-      "user_info": "Trail 5",
-      "expiry_date": "2026-04-22 18:12:56",
-      "status": "PENDING",
-      "request_date": "2026-04-21 18:12:56"
-    },
-    {
-      "activated_device_uuid": "fcfd02e3a497b5b8b72cf6fedb9f48800205457f7d37dddd7e8c3b5b7d5a9550",
-      "user_info": "Trail 5",
-      "expiry_date": "2026-04-23 05:05:01",
-      "status": "PENDING",
-      "request_date": "2026-04-22 05:05:01"
-    },
-    {
       "activated_device_uuid": "b2f19f9da971561010b8b7be645e41ba774c0b3357e4223cfec34d5dc998091c",
       "user_info": "Sabbir Mohammad Khan, tg: @msk70official",
       "expiry_date": "2090-06-08 03:27:00",
