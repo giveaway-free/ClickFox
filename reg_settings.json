@@ -1,6 +1,6 @@
 {
-  "mode": "manual",
-  "auto_duration": 1,
-  "auto_unit": "d",
+  "mode": "auto",
+  "auto_duration": 25,
+  "auto_unit": "m",
   "tpl_info": "Trail 5"
 }
