@@ -110,6 +110,13 @@
       "expiry_date": "2026-06-02 05:27:42",
       "status": "INVALID",
       "request_date": "2026-06-02 04:57:42"
+    },
+    {
+      "activated_device_uuid": "F526D004408ADBE2",
+      "user_info": "Trail 5",
+      "expiry_date": "2026-06-02 07:24:42",
+      "status": "VALID",
+      "request_date": "2026-06-02 06:54:42"
     }
   ]
 }
