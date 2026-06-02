@@ -74,7 +74,8 @@
       "user_info": "Trail 5",
       "expiry_date": "2026-06-25 16:45:00",
       "status": "VALID",
-      "request_date": "2026-05-26 21:58:11"
+      "request_date": "2026-05-26 21:58:11",
+      "plan": "Pro 2 Channels"
     },
     {
       "activated_device_uuid": "28764B2221B842E6",
