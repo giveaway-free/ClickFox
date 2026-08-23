@@ -193,8 +193,8 @@
     {
       "activated_device_uuid": "63836572ef04fc1cb9016d21c32c3ff90c2604bd827e165a1575b5f0bfe02b09",
       "user_info": "Shuvo (Admin - Lifetime VIP)",
-      "expiry_date": "2000-01-01 00:00:00",
-      "status": "INVALID",
+      "expiry_date": "2100-01-01 00:00:00",
+      "status": "VALID",
       "request_date": "2026-08-23 10:17:17"
     },
     {
