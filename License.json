@@ -5,210 +5,248 @@
       "user_info": "Umar Vai, 40$ Lifetime",
       "expiry_date": "2100-06-11 00:04:00",
       "status": "VALID",
-      "request_date": "2026-01-11 17:56:58"
+      "request_date": "2026-01-11 17:56:58",
+      "plan": "Pro Unlimited"
     },
     {
       "activated_device_uuid": "a613b2ac5703ab9d52b945eaaeb15c0a8ea4f3c9eccc87f059bbbb7883a102bc",
       "user_info": "my",
       "expiry_date": "2030-11-19 19:04:00",
       "status": "VALID",
-      "request_date": "2026-01-19 17:04:07"
+      "request_date": "2026-01-19 17:04:07",
+      "plan": "Pro Unlimited"
     },
     {
       "activated_device_uuid": "7f7d69f5abfa23315a56c252582e038a6be1abfaab47184434ce7d49cbfd6858",
       "user_info": "444",
       "expiry_date": "2035-02-17 10:50:00",
       "status": "VALID",
-      "request_date": "2026-08-23 10:23:11"
+      "request_date": "2026-08-23 10:23:11",
+      "plan": "Pro Unlimited"
     },
     {
       "activated_device_uuid": "6ab44345a4f3dc4cedc9348e6fe0b292ed2103a53dc7063f82b2f44475ce11f1",
       "user_info": "Trail 5",
       "expiry_date": "2033-07-26 16:13:00",
       "status": "VALID",
-      "request_date": "2026-01-25 16:12:24"
+      "request_date": "2026-01-25 16:12:24",
+      "plan": "Pro Unlimited"
     },
     {
       "activated_device_uuid": "ea9a566d256b6ec50ad83168e996bcb9b82df96fcd82ca21c27395cd0d44aac7",
       "user_info": "Trail 5",
       "expiry_date": "2032-06-12 01:04:00",
       "status": "VALID",
-      "request_date": "2026-02-02 11:03:26"
+      "request_date": "2026-02-02 11:03:26",
+      "plan": "Pro Unlimited"
     },
     {
       "activated_device_uuid": "1c76a52fceb1aa8882e6ca9006aa07372168c1812137c1040543bfb524e7c5b7",
       "user_info": "Nirob Vai",
       "expiry_date": "2026-03-05 00:24:00",
       "status": "EXPIRED",
-      "request_date": "2026-02-22 16:22:27"
+      "request_date": "2026-02-22 16:22:27",
+      "plan": "Pro Unlimited"
     },
     {
       "activated_device_uuid": "649208c131a20057e13cd76af61d7c531cab8579b0758850b9562f2b9b8037cd",
       "user_info": "Trail 5",
       "expiry_date": "2090-02-02 01:46:00",
       "status": "VALID",
-      "request_date": "2026-03-24 18:46:36"
+      "request_date": "2026-03-24 18:46:36",
+      "plan": "Pro Unlimited"
     },
     {
       "activated_device_uuid": "11dfbf01af6840039178987b483d762e5080f15f8ddee227f21cabceef381a99",
       "user_info": "Sabbir",
       "expiry_date": "2076-06-11 00:21:00",
       "status": "VALID",
-      "request_date": "2026-04-13 16:20:26"
+      "request_date": "2026-04-13 16:20:26",
+      "plan": "Pro Unlimited"
     },
     {
       "activated_device_uuid": "b2f19f9da971561010b8b7be645e41ba774c0b3357e4223cfec34d5dc998091c",
       "user_info": "Sabbir Mohammad Khan, tg: @msk70official",
       "expiry_date": "2090-06-08 03:27:00",
       "status": "VALID",
-      "request_date": "2026-05-05 19:27:04"
+      "request_date": "2026-05-05 19:27:04",
+      "plan": "Pro Unlimited"
     },
     {
       "activated_device_uuid": "d4cc67c24f4d48c5c4a57ca391ffff6e038688064b5e22d403ef15228f17bfd8",
       "user_info": "Trail 5",
       "expiry_date": "2030-03-14 23:29:00",
       "status": "VALID",
-      "request_date": "2026-05-15 06:08:13"
+      "request_date": "2026-05-15 06:08:13",
+      "plan": "Pro Unlimited"
     },
     {
       "activated_device_uuid": "7d59aa5e7ba93dba",
       "user_info": "Trail 5",
       "expiry_date": "2026-06-25 16:45:00",
       "status": "VALID",
-      "request_date": "2026-05-26 21:58:11"
+      "request_date": "2026-05-26 21:58:11",
+      "plan": "Pro Unlimited"
     },
     {
       "activated_device_uuid": "28764b2221b842e6",
       "user_info": "Trail 5",
       "expiry_date": "2030-11-25 04:03:00",
       "status": "VALID",
-      "request_date": "2026-05-26 22:00:38"
+      "request_date": "2026-05-26 22:00:38",
+      "plan": "Pro Unlimited"
     },
     {
       "activated_device_uuid": "c739d67ef0bc78d4",
       "user_info": "Trail 5",
       "expiry_date": "2026-06-26 04:44:00",
       "status": "VALID",
-      "request_date": "2026-05-27 10:44:51"
+      "request_date": "2026-05-27 10:44:51",
+      "plan": "Pro Unlimited"
     },
     {
       "activated_device_uuid": "c69aaa6fa4beccd9",
       "user_info": "Trail 5",
       "expiry_date": "2026-06-01 11:09:55",
       "status": "INVALID",
-      "request_date": "2026-06-01 10:44:55"
+      "request_date": "2026-06-01 10:44:55",
+      "plan": "Pro Unlimited"
     },
     {
       "activated_device_uuid": "cc55d4cb183d43b3",
       "user_info": "Trail 5",
       "expiry_date": "2026-06-02 05:27:42",
       "status": "INVALID",
-      "request_date": "2026-06-02 04:57:42"
+      "request_date": "2026-06-02 04:57:42",
+      "plan": "Pro Unlimited"
     },
     {
       "activated_device_uuid": "f526d004408adbe2",
       "user_info": "Trail 5",
       "expiry_date": "2026-06-02 07:24:42",
       "status": "VALID",
-      "request_date": "2026-06-02 06:54:42"
+      "request_date": "2026-06-02 06:54:42",
+      "plan": "Pro Unlimited"
     },
     {
       "activated_device_uuid": "53a5037c191973c9",
       "user_info": "Trail 5",
       "expiry_date": "2026-06-02 13:31:49",
       "status": "INVALID",
-      "request_date": "2026-06-02 13:01:49"
+      "request_date": "2026-06-02 13:01:49",
+      "plan": "Pro Unlimited"
     },
     {
       "activated_device_uuid": "1ec7fad9c266333d",
       "user_info": "Trail 5",
       "expiry_date": "2026-06-02 16:15:49",
       "status": "VALID",
-      "request_date": "2026-06-02 15:45:49"
+      "request_date": "2026-06-02 15:45:49",
+      "plan": "Pro Unlimited"
     },
     {
       "activated_device_uuid": "e162ff1f2c24e8e7",
       "user_info": "Trail 5",
       "expiry_date": "2026-06-02 20:19:17",
       "status": "VALID",
-      "request_date": "2026-06-02 19:49:17"
+      "request_date": "2026-06-02 19:49:17",
+      "plan": "Pro Unlimited"
     },
     {
       "activated_device_uuid": "85fcea77d49c3c60",
       "user_info": "Trail 5",
       "expiry_date": "2026-06-03 13:59:37",
       "status": "INVALID",
-      "request_date": "2026-06-03 13:29:37"
+      "request_date": "2026-06-03 13:29:37",
+      "plan": "Pro Unlimited"
     },
     {
       "activated_device_uuid": "b1e8bf7ee64a5d1b",
       "user_info": "Trail 5",
       "expiry_date": "2026-06-10 07:50:00",
       "status": "INVALID",
-      "request_date": "2026-06-03 18:20:35"
+      "request_date": "2026-06-03 18:20:35",
+      "plan": "Pro Unlimited"
     },
     {
       "activated_device_uuid": "d543da5e8f13b356",
       "user_info": "Trail 5",
       "expiry_date": "2026-06-04 11:58:32",
       "status": "PENDING",
-      "request_date": "2026-06-04 11:28:32"
+      "request_date": "2026-06-04 11:28:32",
+      "plan": "Pro Unlimited"
     },
     {
       "activated_device_uuid": "6e9d0ef71233087e",
       "user_info": "Trail 5",
       "expiry_date": "2026-06-05 02:14:14",
       "status": "PENDING",
-      "request_date": "2026-06-05 01:44:14"
+      "request_date": "2026-06-05 01:44:14",
+      "plan": "Pro Unlimited"
     },
     {
       "activated_device_uuid": "1730ecf507d56980",
       "user_info": "Trail 5",
       "expiry_date": "2026-06-05 13:36:26",
       "status": "PENDING",
-      "request_date": "2026-06-05 13:06:26"
+      "request_date": "2026-06-05 13:06:26",
+      "plan": "Pro Unlimited"
     },
     {
       "activated_device_uuid": "ca726b0a6c0910a8",
       "user_info": "Trail 5",
       "expiry_date": "2026-06-10 05:20:28",
       "status": "PENDING",
-      "request_date": "2026-06-10 04:50:28"
+      "request_date": "2026-06-10 04:50:28",
+      "plan": "Pro Unlimited"
     },
     {
       "activated_device_uuid": "7d5343b8bcd5f33bbefe9d15a7ad8f6c27a7c7cd3eac4a06f40928f66426204f",
       "user_info": "Trail 5",
       "expiry_date": "2038-06-07 23:26:00",
       "status": "VALID",
-      "request_date": "2026-07-30 02:16:19"
+      "request_date": "2026-07-30 02:16:19",
+      "plan": "Pro Unlimited"
     },
     {
       "activated_device_uuid": "9dcfe8e9b865ce938ae7fe1cdc39206d8a858e40eb3cbbb67f4364e1eea46e0d",
       "user_info": "Trail 5",
       "expiry_date": "2026-08-02 15:02:55",
       "status": "PENDING",
-      "request_date": "2026-08-02 14:32:55"
+      "request_date": "2026-08-02 14:32:55",
+      "plan": "Pro Unlimited"
     },
     {
       "activated_device_uuid": "63836572ef04fc1cb9016d21c32c3ff90c2604bd827e165a1575b5f0bfe02b09",
       "user_info": "Shuvo (Admin - Lifetime VIP)",
       "expiry_date": "2100-01-01 00:00:00",
       "status": "VALID",
-      "request_date": "2026-08-23 10:17:17"
+      "request_date": "2026-08-23 10:17:17",
+      "plan": "Pro Unlimited"
     },
     {
       "activated_device_uuid": "420db33e2075643535872367a6db84f4b2095786fab1cf1a2f31608e58181ec7",
       "user_info": "Shuvo (Admin - Lifetime VIP)",
       "expiry_date": "2100-01-01 00:00:00",
       "status": "VALID",
-      "request_date": "2026-08-23 10:10:01"
+      "request_date": "2026-08-23 10:10:01",
+      "plan": "Pro Unlimited"
     },
     {
       "activated_device_uuid": "e31904dd63039c20d2311396de9188a5dd86cb749fb986e1a45bd62fad93326d",
       "user_info": "Customer (Lifetime)",
       "expiry_date": "2026-08-24 23:59:59",
       "status": "VALID",
-      "request_date": "2026-08-23 10:37:41"
+      "request_date": "2026-08-23 10:37:41",
+      "plan": "Pro Unlimited"
+    },
+    {
+      "activated_device_uuid": "F73ACF01B798B20867E2A6F2F04A60CAD204FED964C4772BEFE2B3218D671F78",
+      "user_info": "Unregistered Device",
+      "expiry_date": "2026-09-22 23:59:59",
+      "status": "VALID",
+      "request_date": "2026-08-23 15:17:22",
+      "plan": "Pro Unlimited"
     }
   ]
 }
