@@ -254,20 +254,6 @@
       "expiry_date": "2026-12-31 23:59:59",
       "status": "VALID",
       "request_date": "2026-08-25 07:03:14"
-    },
-    {
-      "activated_device_uuid": "c6196f33a8e899634b6c59ee981df4d3ad8cb9c73dc82073e02a6fdf432250cf",
-      "user_info": "Trail 5",
-      "expiry_date": "2026-09-11 23:34:28",
-      "status": "PENDING",
-      "request_date": "2026-09-11 23:04:28"
-    },
-    {
-      "activated_device_uuid": "0e4fe15e9c75db67ceac77bc7022be9382c0f3585fad7e4c071ff004c63736d2",
-      "user_info": "Trail 5",
-      "expiry_date": "2026-09-13 21:04:56",
-      "status": "PENDING",
-      "request_date": "2026-09-13 20:34:56"
     }
   ]
 }
