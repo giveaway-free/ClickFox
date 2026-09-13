@@ -209,14 +209,6 @@
       "plan": "Pro Unlimited"
     },
     {
-      "activated_device_uuid": "9dcfe8e9b865ce938ae7fe1cdc39206d8a858e40eb3cbbb67f4364e1eea46e0d",
-      "user_info": "Trail 5",
-      "expiry_date": "2026-08-02 15:02:55",
-      "status": "PENDING",
-      "request_date": "2026-08-02 14:32:55",
-      "plan": "Pro Unlimited"
-    },
-    {
       "activated_device_uuid": "63836572ef04fc1cb9016d21c32c3ff90c2604bd827e165a1575b5f0bfe02b09",
       "user_info": "....",
       "expiry_date": "2100-01-01 00:00:00",
