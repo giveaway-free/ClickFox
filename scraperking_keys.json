@@ -1,0 +1,36 @@
+{
+  "keys": {
+    "SKING-38F2F9C2-6450-49E7": {
+      "user": "Owner (Admin PC)",
+      "expires": "2099-12-31"
+    },
+    "SKING-59D8D932-CF1C-48BA": {
+      "user": "Proffesor",
+      "expires": "2026-08-22"
+    },
+    "SKING-3D8C1CE9-30AC-4DD5": {
+      "user": "Mark",
+      "expires": "2026-08-22"
+    },
+    "SKING-33E35D66-D067-4457": {
+      "user": "Joy",
+      "expires": "2026-08-22"
+    },
+    "SKING-9F5E7BB8-A3CF-447D": {
+      "user": "Rifat",
+      "expires": "2026-08-22"
+    },
+    "SKING-88F0A6FD-83B8-4DF6": {
+      "user": "Mominul",
+      "expires": "2026-08-22"
+    },
+    "SKING-2BDD4F46-3765-4DA4": {
+      "user": "owner",
+      "expires": "2026-08-16"
+    },
+    "SKING-73FADF56-1375-4A29": {
+      "user": "Rajon",
+      "expires": "2026-08-16"
+    }
+  }
+}
