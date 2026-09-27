@@ -263,8 +263,8 @@
     {
       "activated_device_uuid": "cc066938d83c8b666939f4aa5eb9b2e3227d4d68f2e47e991ff2f51060d1a311",
       "user_info": "Trail 5",
-      "expiry_date": "2026-09-27 17:42:33",
-      "status": "PENDING",
+      "expiry_date": "2032-03-27 13:07:00",
+      "status": "VALID",
       "request_date": "2026-09-27 17:12:33",
       "app": "Telegram Forwarder Pro"
     }
